@@ -1,3 +1,4 @@
+<?php
 <html>
 <script src="https://cdn.webrtc-experiment.com/RecordRTC.js"> </script>
         <script src="https://cdn.webrtc-experiment.com/getScreenId.js"></script>
@@ -232,3 +233,4 @@
                 };
             </script>
 			</html>
+?>
